@@ -1,6 +1,9 @@
-# SCNVector3Extensions
+# SCNVector3Extensions for macOS
 
 Updated to Swift 5.1 - thanks to @sstadelman
+
+In iOS SCNVector3 uses Float
+In macOS SCNVector3 uses CGFloat
 
 An extension of SCNVector3 written in Swift that adds helpful functions to calculate dot products, cross products etc. By using this extension you can do (almost) the same math on SCNVector3 as you can with a GLKVector3 using GLKit
 
